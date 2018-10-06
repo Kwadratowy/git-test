@@ -1,2 +1,4 @@
 Zmiana 1
 
+Dodałem drugą zmiane jako ćwieczenie w domu.
+Nastepnie zaktualizuję wszystko na git hubie a pozniej utworze nowy branch i też wysle.
